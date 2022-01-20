@@ -1,0 +1,28 @@
+.app {
+  text-align: center;
+  margin-top: 100px;
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 65px;
+  color: #0074B2;
+  text-shadow: 1px 1px 3px #fff;
+}
+
+#divBlock {
+  width: 500px;
+  background-color: #6da0c0;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  opacity: 0.9;
+  margin-bottom: 2em;
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
